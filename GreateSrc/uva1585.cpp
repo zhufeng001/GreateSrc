@@ -4,8 +4,10 @@
 /*
 会依次记录下自己所用到的知识点的。sizeof和strlen，以及string.h包含的函数等
 判断字符串结束
+
+设置utf8 编码。如何默认？文件，高级保存选项
 */
-int main(void)
+int main_uva1585(void)
 {
 	char input[80];
 	int len=0;
@@ -31,4 +33,5 @@ int main(void)
 	}
 	printf("sum: %d",sum);
 	scanf("%d",&end);
+	return 0;
 }
