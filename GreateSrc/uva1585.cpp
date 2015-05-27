@@ -1,8 +1,9 @@
-#include <string.h>
+ï»¿#include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
 /*
-»áÒÀ´Î¼ÇÂ¼ÏÂ×Ô¼ºËùÓÃµ½µÄÖªÊ¶µãµÄ¡£sizeofºÍstrlen£¬ÒÔ¼°string.h°üº¬µÄº¯ÊıµÈ
+ä¼šä¾æ¬¡è®°å½•ä¸‹è‡ªå·±æ‰€ç”¨åˆ°çš„çŸ¥è¯†ç‚¹çš„ã€‚sizeofå’Œstrlenï¼Œä»¥åŠstring.håŒ…å«çš„å‡½æ•°ç­‰
+åˆ¤æ–­å­—ç¬¦ä¸²ç»“æŸ
 */
 int main(void)
 {
